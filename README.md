@@ -21,7 +21,7 @@ This Practical Data Engineering project addresses common data engineering challe
 - **Comprehensive Tech Stack**: Utilizes a wide range of technologies from web scraping, S3 storage, data processing, machine learning, to data visualization and orchestration.
 - **Hands-On Learning**: Offers a hands-on approach to understanding how different technologies integrate and complement each other in a real-world scenario.
 
-### Key Features & Learnings:
+### Key Features :
 - Scraping real estate listings with [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/index.html)
 - Change Data Capture (CDC) mechanisms for efficient data updates
 - Utilizing [MinIO](https://github.com/minio/minio) as an S3-Gateway for cloud-agnostic storage
