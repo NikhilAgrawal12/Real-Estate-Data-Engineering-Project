@@ -2,12 +2,6 @@
 
 # Real-Estate Data Engineering Project 
 
-## About the Author
-- **Name**: Nikhil Agrawal
-- **GitHub Profile**: [NikhilAgrawal12](https://github.com/NikhilAgrawal12)
-- **Contact**: nikhilagrawal1289@gmail.com
-
-
 This repository containts a practical implementation of a data engineering project that spans across web-scraping real-estates, processing with Spark and Delta Lake, adding data science with Jupyter Notebooks, ingesting data into Apache Druid, visualizing with Apache Superset, and managing workflows with Dagster—all orchestrated on Kubernetes. 
 
 
